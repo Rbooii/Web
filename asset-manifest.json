@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.ed09f861.css",
-    "main.js": "/web/static/js/main.ef9535c0.js",
-    "static/js/787.62d5f28d.chunk.js": "/web/static/js/787.62d5f28d.chunk.js",
-    "static/media/ascii.mp4": "/web/static/media/ascii.cde6ad7f329b1f99a59b.mp4",
-    "static/media/vector.mp4": "/web/static/media/vector.59aa0462ce9320f527af.mp4",
-    "static/media/planet.mp4": "/web/static/media/planet.504eff88f4f930037dc4.mp4",
-    "static/media/pp1.jpg": "/web/static/media/pp1.50f3d4bbc676f70356ed.jpg",
-    "static/media/code-featured-splash-background-blur.jpg": "/web/static/media/code-featured-splash-background-blur.89f01da66cd45da5a7cf.jpg",
-    "static/media/python.ico": "/web/static/media/python.40282a3647871bd483cd.ico",
-    "static/media/Arduino-png": "/web/static/media/Arduino-1324888695477898902.328bcaf6dba452f15369.png",
-    "static/media/javascript.ico": "/web/static/media/javascript.f207fb30970e11072eae.ico",
-    "index.html": "/web/index.html",
-    "main.ed09f861.css.map": "/web/static/css/main.ed09f861.css.map",
-    "main.ef9535c0.js.map": "/web/static/js/main.ef9535c0.js.map",
-    "787.62d5f28d.chunk.js.map": "/web/static/js/787.62d5f28d.chunk.js.map"
+    "main.css": "/Web/static/css/main.ed09f861.css",
+    "main.js": "/Web/static/js/main.43143c42.js",
+    "static/js/787.62d5f28d.chunk.js": "/Web/static/js/787.62d5f28d.chunk.js",
+    "static/media/ascii.mp4": "/Web/static/media/ascii.cde6ad7f329b1f99a59b.mp4",
+    "static/media/vector.mp4": "/Web/static/media/vector.59aa0462ce9320f527af.mp4",
+    "static/media/planet.mp4": "/Web/static/media/planet.504eff88f4f930037dc4.mp4",
+    "static/media/pp1.jpg": "/Web/static/media/pp1.50f3d4bbc676f70356ed.jpg",
+    "static/media/code-featured-splash-background-blur.jpg": "/Web/static/media/code-featured-splash-background-blur.89f01da66cd45da5a7cf.jpg",
+    "static/media/python.ico": "/Web/static/media/python.40282a3647871bd483cd.ico",
+    "static/media/Arduino-png": "/Web/static/media/Arduino-1324888695477898902.328bcaf6dba452f15369.png",
+    "static/media/javascript.ico": "/Web/static/media/javascript.f207fb30970e11072eae.ico",
+    "index.html": "/Web/index.html",
+    "main.ed09f861.css.map": "/Web/static/css/main.ed09f861.css.map",
+    "main.43143c42.js.map": "/Web/static/js/main.43143c42.js.map",
+    "787.62d5f28d.chunk.js.map": "/Web/static/js/787.62d5f28d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed09f861.css",
-    "static/js/main.ef9535c0.js"
+    "static/js/main.43143c42.js"
   ]
 }
